@@ -46,4 +46,8 @@ Spring Boot Tests
 Spring Boot Actuator   
 
 **8주차 - 수강완료**   
-
+Auth의 의미   
+Login 기본   
+Login 커스텀   
+OAuth와 JWT   
+OAuth2 서버 만들어보기()   
