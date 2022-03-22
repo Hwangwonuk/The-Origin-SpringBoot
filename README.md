@@ -1,5 +1,6 @@
 # The-Origin-SpringBoot
-멋쟁이 사자처럼 The Origin 1기
+멋쟁이 사자처럼 The Origin 1기   
+Mission Page : https://github.com/Hwangwonuk/Spring_Boot_Mission   
    
 **1주차 - 수강 완료**   
 Java 프로젝트 - **commit**   
