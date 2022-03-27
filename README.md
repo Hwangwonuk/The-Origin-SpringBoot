@@ -9,7 +9,7 @@ Docker Setting
 Client - Server Model   
 Spring Boot 프로젝트 시작하기 - **commit**   
    
-**2주차 - 2주차 Basic Mission, Challenge Mission,  수강 완료**   
+**2주차 - 2주차 Basic Mission, Challenge Mission, 수강 완료**   
 Builid Automation Tool   
 Spring Boot 실행하기   
 Spring IOC - commit   
@@ -21,7 +21,7 @@ HTML template - **commit**
 Postman   
 1차 미션 해설영상 - 해설반영 commit      
    
-**4주차 - 수강완료**   
+**4주차 - 4주차 Basic Mission, Challenge Mission, 수강완료**   
 CRUD   
 CRUD와 REST   
 Spring Stereotypes   
@@ -34,7 +34,7 @@ JPA활용하기
 CRUD에 데이터베이스 적용   
 2차미션 해설    
 
-**6주차 - 수강완료**   
+**6주차 - 6주차 Basic Mission, Challenge Mission, 수강완료**   
 Spring Boot Properties   
 Logging   
 Spring AOP   
@@ -46,9 +46,12 @@ interceptors & Filters
 Spring Boot Tests   
 Spring Boot Actuator   
 
-**8주차 - 수강완료**   
+**8주차 - 8주차 Basic Mission, Challenge Mission, 수강완료**   
 Auth의 의미   
 Login 기본   
 Login 커스텀   
 OAuth와 JWT   
-OAuth2 서버 만들어보기()   
+OAuth2 서버 만들어보기   
+   
+**9주차**   
+
