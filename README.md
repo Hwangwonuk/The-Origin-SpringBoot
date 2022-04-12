@@ -60,7 +60,7 @@ Redis
 WebSocket   
 WebClient   
    
-**10주차 - Basic Mission, **   
+**10주차 - Basic Mission, 수강완료**   
 Spring Cloud   
 Micro Service Architecture   
 Spring Cloud Gateway   
