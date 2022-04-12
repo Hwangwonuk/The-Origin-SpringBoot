@@ -53,11 +53,16 @@ Login 커스텀
 OAuth와 JWT   
 OAuth2 서버 만들어보기   
    
-**9주차**   
+**9주차 - 수강완료**   
 RabbitMQ   
 Message Broker 활용   
 Redis   
 WebSocket   
 WebClient   
    
-**10주차**
+**10주차 - Basic Mission, **   
+Spring Cloud   
+Micro Service Architecture   
+Spring Cloud Gateway   
+Spring Cloud Config   
+
